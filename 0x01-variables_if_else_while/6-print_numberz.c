@@ -9,7 +9,7 @@
 /* main fonction is void */
 int main(void)
 {
-	for (int i = 0; i <= 9; i++)
+	for (int c99 = 0; i <= 9; i++)
 	{
 		putchar(i + '0');
 	}
