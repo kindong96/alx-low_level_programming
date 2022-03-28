@@ -15,7 +15,6 @@ if (c > 'a' && c < 'z')
 {
 return (1);
 }
-<<<<<<< HEAD
 
 else
 {
@@ -23,6 +22,3 @@ return (0);
 }
 
 }
-=======
-
->>>>>>> d534e7333a01cb8bed8ad28ca979c084809e4cab
